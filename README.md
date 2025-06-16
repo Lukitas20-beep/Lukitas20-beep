@@ -28,7 +28,7 @@ Falo **inglês fluentemente (nível B2 – FCE)** e trago a organização e resp
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
       <a href="https://lukitas20-beep.github.io/-Lukitas20-beep-/" target="https://lukitas20-beep.github.io/-Lukitas20-beep-/">➡️ Ver Site Ao Vivo</a>
       <br>
-      <a href="https://github.com/Lukitas20-beep/Lukitas20-beep" target="https://github.com/Lukitas20-beep/Lukitas20-beep">🔗 Ver Código-Fonte</a>
+      <a href="https://github.com/Lukitas20-beep/-Lukitas20-beep-" target="https://github.com/Lukitas20-beep/-Lukitas20-beep-">🔗 Ver Código-Fonte</a>
     </td>
     <td width="50%" valign="top">
       <h3>Sistema de Ordem de Serviço</h3>
