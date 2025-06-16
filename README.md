@@ -26,16 +26,16 @@ Falo **inglês fluentemente (nível B2 – FCE)** e trago a organização e resp
       <h3>Portfólio Pessoal</h3>
       <p>O desenvolvimento desta página foi um projeto em si, utilizando HTML, CSS e JavaScript para criar uma apresentação profissional, responsiva e interativa. O código está disponível no meu GitHub.</p>
       <p><strong>Tecnologias:</strong> HTML, CSS, JavaScript</p>
-      <a href="https://lukitas20-beep.github.io/" target="_blank">➡️ Ver Site Ao Vivo</a>
+      <a href="https://lukitas20-beep.github.io/-Lukitas20-beep-/" target="https://lukitas20-beep.github.io/-Lukitas20-beep-/">➡️ Ver Site Ao Vivo</a>
       <br>
-      <a href="https://github.com/Lukitas20-beep/Lukitas20-beep.github.io" target="_blank">🔗 Ver Código-Fonte</a>
+      <a href="https://github.com/Lukitas20-beep/Lukitas20-beep" target="https://github.com/Lukitas20-beep/Lukitas20-beep">🔗 Ver Código-Fonte</a>
     </td>
     <td width="50%" valign="top">
       <h3>Sistema de Ordem de Serviço</h3>
       <p>Este é um projeto que desenvolvi para aplicar e aprofundar meus conhecimentos em desenvolvimento web utilizando o ecossistema Java. O desafio foi criar uma solução completa e funcional para o gerenciamento de ordens de serviço.</p>
       <p><strong>Tecnologias:</strong> Java, Servlets, JSP, JDBC, MySQL</p>
       <br>
-      <a href="https://github.com/Lukitas20-beep/ordem_servico" target="_blank">🔗 Ver Repositório</a>
+      <a href="https://github.com/Lukitas20-beep/ordem_servico" target="https://github.com/Lukitas20-beep/ordem_servico">🔗 Ver Repositório</a>
     </td>
   </tr>
   <tr>
@@ -44,7 +44,7 @@ Falo **inglês fluentemente (nível B2 – FCE)** e trago a organização e resp
       <p>Este é um dos projetos que mais gostei de desenvolver, pois me desafiou a recriar a arquitetura e as funcionalidades essenciais de uma das maiores redes sociais do mundo para entender na prática como funcionam as interações sociais.</p>
       <p><strong>Tecnologias:</strong> PHP, MySQL, JavaScript</p>
       <br>
-      <a href="https://github.com/Lukitas20-beep/twitter_clone" target="_blank">🔗 Ver Repositório</a>
+      <a href="https://github.com/Lukitas20-beep/twitter_clone" target="https://github.com/Lukitas20-beep/twitter_clone">🔗 Ver Repositório</a>
     </td>
     <td width="50%" valign="top">
       </td>
