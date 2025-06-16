@@ -1,10 +1,10 @@
 # Olá, eu sou o Lucas Ferreira! 👋
 
 <p align="left">
-  <a href="https://lukitas20-beep.github.io/" target="_blank">
+  <a href="https://lukitas20-beep.github.io/-Lukitas20-beep-/" target="https://lukitas20-beep.github.io/-Lukitas20-beep-/">
     <img src="https://img.shields.io/badge/Portfólio-Web-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio">
   </a>
-  <a href="https://www.linkedin.com/in/lucas-ferreira-b38b9a138/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-ferreira-b38b9a138/" target="https://www.linkedin.com/in/lucas-ferreira-b38b9a138/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:lf8685741@gmail.com">
